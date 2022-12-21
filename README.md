@@ -1,6 +1,6 @@
 # Pack Christmas Project 2022
 
-As you may or may not know, it's our SUSE Packaging team tradition to bring you a Christmas surprise from our Pack workshop every year.
+We bring you another Christmas project from the SUSE Packaging team. This year, it has two parts. First, you can enjoy our Christmas card built from letters created by team members across the World. Then you can check a special packxmas package coming from Daniel Garcia.
 
 We wish you a happy holidays season and have a lot of fun!
 
