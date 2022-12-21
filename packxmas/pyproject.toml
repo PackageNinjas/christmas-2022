@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "packxmas"
+version = "22.2"
+description = "A CLI XMas message from SUSE pack team"
+authors = ["Daniel Garcia Moreno <daniel.garcia@suse.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+asciimatics = "^1.14.0"
+
+[tool.poetry.scripts]
+packxmas = "packxmas.main:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
